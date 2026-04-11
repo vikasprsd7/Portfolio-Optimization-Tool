@@ -1,1 +1,1 @@
-
+Leveraging **PyTorch and Monte Carlo simulations**, this project optimizes a multi-asset portfolio by modeling 500,000 price paths via **Geometric Brownian Motion** to maximize risk-adjusted returns within custom allocation constraints.
