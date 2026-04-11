@@ -30,6 +30,8 @@ While typically used for AI, it was used here for Tensor Computing. PyTorch allo
 
 It handles all matrix math, random number generation, and GPU acceleration (via the device variable).
 
+****Note**:In this documentation, I have emphasized PyTorch over NumPy for its speed and ability to handle large-scale simulations (Monte Carlo).**
+
 - **Math**:
 
 Used for basic scalar operations like math.sqrt within the GBM calculation.
